@@ -12,7 +12,7 @@ from gtts import gTTS
 from googletrans import Translator
 
 cl = LINETCR.LINE()
-cl.login(token="")
+cl.login(token="EoMGDNie7KhOWJgX05r5.xeJOC98vuHxX09TnLVhlPq.278M20rsRvWFE8z1GUywizklYdsLioAM6spMmK1kt7w=")
 cl.loginResult()
 
 #cl = LINETCR.LINE()
