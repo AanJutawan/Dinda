@@ -520,7 +520,7 @@ class LINE:
 
       prof = self.getProfile()
 
-      print("==============[✟Ƥɾøтøтуρє✟一�:緑 BOT]==============")
+      print("==============[Type Bot:Aan jutawan]==============")
       print("           Thanks for TCR and my friend")
       print("====================================================")
       print("MID : " + prof.mid)
